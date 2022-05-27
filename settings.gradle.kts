@@ -1,3 +1,2 @@
-
-rootProject.name = "EvetnSourcing"
+rootProject.name = "EventSourcing"
 
